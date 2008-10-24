@@ -26,7 +26,7 @@ Dolphin Reader是一款基于devkitpro和Palib开发的NDS应用程序
    * 注意：一定要将新生成的libfat.a复制到"X:devkitPro\libnds\lib"路径下覆盖原有文件
 
 生成libutf.a:
-   * 从http://www.unicode.org/Public/BETA/CVTUTF-1-4/取得Unicode的转换代码
+   * 从 http://www.unicode.org/Public/BETA/CVTUTF-1-4/ 取得Unicode的转换代码
    * 使用下列命令生成libutf.a:
       * arm-eabi-gcc -c ConvertUTF.c
       * arm-eabi-ar -rcs libutf.a ConvertUTF.o
