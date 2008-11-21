@@ -1,5 +1,7 @@
 #summary 常见问题汇总
 
+如果遇到的是使用上的问题，请先看[https://docs.google.com/Doc?id=dcbjhs89_1dsj8pmpk DR的使用图解]
+
 === 不能显示背景图? ===
 
 请先检查dolread是不是放在根目录下面的。必须将dolread目录拷入根目录下才能显示背景图。
